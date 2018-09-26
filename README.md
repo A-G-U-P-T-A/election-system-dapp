@@ -30,7 +30,7 @@ See video tutorials for full explanation of these steps:
 
 Unlock Metamask
 Connect metamask to your local Etherum blockchain provided by Ganache.
-Import an account provided by ganache.
+Import an account provided by ganache using private keys.
 
 # Step 6. Run the Front End Application
 ~$ npm run dev Visit this URL in your browser: http://localhost:3000
