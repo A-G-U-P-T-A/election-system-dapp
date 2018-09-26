@@ -12,7 +12,7 @@ Ganache: http://truffleframework.com/ganache/
 Metamask: https://metamask.io/
 
 # Step 1. Clone the project
-git clone https://github.com/dappuniversity/election
+~$ git clone https://github.com/dappuniversity/election
 
 # Step 2. Install dependencies
 ~$ cd election
@@ -26,7 +26,7 @@ Open the Ganache GUI client that you downloaded and installed. This will start y
 ~$ truffle migrate --reset You must migrate the election smart contract each time your restart ganache.
 
 # Step 5. Configure Metamask
-See free video tutorial for full explanation of these steps:
+See video tutorials for full explanation of these steps:
 
 Unlock Metamask
 Connect metamask to your local Etherum blockchain provided by Ganache.
