@@ -16,6 +16,7 @@ git clone https://github.com/dappuniversity/election
 
 # Step 2. Install dependencies
 ~$ cd election
+
 ~$ npm install
 
 # Step 3. Start Ganache
@@ -30,5 +31,6 @@ See free video tutorial for full explanation of these steps:
 Unlock Metamask
 Connect metamask to your local Etherum blockchain provided by Ganache.
 Import an account provided by ganache.
+
 # Step 6. Run the Front End Application
 ~$ npm run dev Visit this URL in your browser: http://localhost:3000
