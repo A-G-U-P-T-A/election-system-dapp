@@ -20,7 +20,7 @@ Metamask: https://metamask.io/
 ~$ npm install
 
 # Step 3. Start Ganache
-Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. See free video tutorial for full explanation.
+Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. See video tutorials for full explanation.
 
 # Step 4. Compile & Deploy Election Smart Contract
 ~$ truffle migrate --reset You must migrate the election smart contract each time your restart ganache.
